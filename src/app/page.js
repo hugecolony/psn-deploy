@@ -1,3 +1,4 @@
+
 import React from 'react';
 import Head from 'next/head';
 
@@ -15,6 +16,7 @@ import Brands from '../../components/Brands';
 import Stats from '../../components/Stats';
 import FAQs from '../../components/FAQS';
 import Footer from '../../components/Footer';
+
 export default function Home() {
   return (
     <>
